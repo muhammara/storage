@@ -1,6 +1,17 @@
 # NAME: Pornhub
 payload:
-
+   - DOMAIN-SUFFIX,gnome-look.org
+   - DOMAIN-SUFFIX,store.kde.org
+   - DOMAIN-SUFFIX,xfce-look.org
+   - DOMAIN-SUFFIX,cinnamon-look.org
+   - DOMAIN-SUFFIX,mate-look.org
+   - DOMAIN-SUFFIX,box-look.org
+   - DOMAIN-SUFFIX,linuxmint-art.org
+   - DOMAIN-SUFFIX,ubuntu-art.org
+   - DOMAIN-SUFFIX,debian-art.org
+   - DOMAIN-SUFFIX,pling.com
+   - DOMAIN-SUFFIX,opendesktop.org
+   
    - DOMAIN-SUFFIX,render.com
    - DOMAIN-SUFFIX,python.org
    - DOMAIN-SUFFIX,eclipse.org
