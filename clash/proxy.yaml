@@ -1,5 +1,6 @@
 # NAME: Pornhub
 payload:
+   - DOMAIN-SUFFIX,debian.org
    - DOMAIN-SUFFIX,gnome-look.org
    - DOMAIN-SUFFIX,store.kde.org
    - DOMAIN-SUFFIX,xfce-look.org
